@@ -1,10 +1,10 @@
 # deepracer 🚙
-deepracer : AWS DeepRacer # SageMaker # RoboMaker # Kinesis Video Stream # S3 # CloudWatch
+deepracer : AWS DeepRacer # SageMaker # RoboMaker # Kinesis Video Stream # S3 # CloudWatch # RL
 
 ## Objective
-To Train and Evaluate DeepRacer Model
+To Apply RL (Reinforcement Learning) to Train and Evaluate DeepRacer Model. To deploy model in AWS DeepRacer Racing League Competition.
 
-## AWS DeepRacer
+## AWS DeepRacer Reinforcement Learning & Competition
 
 ![Download deepracer1-video.mp4](https://github.com/miozilla/deepracer/blob/63cba34a854d6aa8ae3a1500a211943394104366/media/deepracer1-video.mp4)
 
