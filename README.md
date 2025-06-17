@@ -6,7 +6,7 @@ To Train and Evaluate DeepRacer Model
 
 ## AWS DeepRacer
 
-![deepracer1-video.mp4](./media/deepracer1-video.mp4)
+![Download deepracer1-video.mp4](https://github.com/miozilla/deepracer/blob/63cba34a854d6aa8ae3a1500a211943394104366/media/deepracer1-video.mp4)
 
 ![deepracer001.png](./media/deepracer001.png)
 
